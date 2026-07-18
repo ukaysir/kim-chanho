@@ -1,2 +1,6 @@
 # Local verification, browser, rendering, and intermediate artifacts
-_workspace/
+_workspace/*
+!_workspace/시각자료_support/
+_workspace/시각자료_support/*
+!_workspace/시각자료_support/PretendardVariable.woff2
+!_workspace/시각자료_support/Pretendard-LICENSE.txt
